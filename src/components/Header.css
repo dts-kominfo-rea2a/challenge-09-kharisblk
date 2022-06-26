@@ -1,0 +1,10 @@
+.Kepala {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    width: 45%;
+    border-bottom-style:dotted;
+    border-color:brown;
+    margin-bottom: 2em;;
+}
+h1, h5, h6 {
+    margin: 0.3em;
+}
